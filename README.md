@@ -1,5 +1,5 @@
 # searching-Maass
-This is the numerical searching result in a database by Andrei Seymour-Howell. Please download the .zip file. 
+This is the numerical searching result in a database by Andrei Seymour-Howell. All the files are included in the .zip file. 
 
 I searched among all the .txt files in the database "Dataset of Maass forms of squarefree level computed via the Trace Formula" given by Andrei Seymour-Howell (link: https://zenodo.org/record/7105773). 
 
